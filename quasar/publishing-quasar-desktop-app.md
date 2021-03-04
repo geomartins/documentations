@@ -185,7 +185,7 @@ echo %GH_TOKEN%
 
  
 
-### Step7: Install Auto Update 
+### Step7: Install Auto Update
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 npm run updater
@@ -377,7 +377,7 @@ npm run pre-release
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-cp dist/win-unpacked/resources/app-update.yml .quasar/electron/dev-app-update.yml
+cp dist/electron/Packaged/win-unpacked/resources/app-update.yml .quasar/electron/dev-app-update.yml
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
  
