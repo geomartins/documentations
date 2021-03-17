@@ -301,6 +301,12 @@ npm run shell
 firebase server --only functions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+-   You can also use this for testing
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+npm run serve
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
  
 
 Step 8: Deployment
@@ -316,3 +322,8 @@ firebase deploy --only functions
 For More Info about axis
 
 <https://flaviocopes.com/node-axios/>
+
+[Restful API
+tutorial](https://www.youtube.com/playlist?list=PLJetLDY7yKupm5WTx02ylh1I25rJLPvXe)
+
+https://www.youtube.com/playlist?list=PLJetLDY7yKupm5WTx02ylh1I25rJLPvXe
